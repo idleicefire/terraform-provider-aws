@@ -1300,3 +1300,5 @@ yamllint: ## [CI] YAML Linting / yamllint
 	website-terrafmt-fix \
 	website-tflint \
 	yamllint
+
+# canary check: harmless comment, no functional change
